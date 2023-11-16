@@ -27,4 +27,6 @@ https://github.com/Les-gars-d-la-table/unity-prototype/assets/74332549/caa6a970-
 ## Conclusion
 Le prototype confirme qu'on peux contrôler une scène Unity à partir de Max et Open Stage Control. La seule chose que j'ai remarqué est que je ne suis pas sûr si il est possible de changer l'orientation des boules dans Unity. 
 
+Désolé pour le manque de gros paragraphes.
+
 
