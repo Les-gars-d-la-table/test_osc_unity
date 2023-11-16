@@ -1,2 +1,2 @@
 # Prototype Unity
-Prototype de l'interaction du prototype à Jacob avec Unity
+Prototype de l'interaction du prototype (Max et Open Stage Control) à Jacob avec Unity
